@@ -3,7 +3,7 @@
 - 🌱 I’m currently doing the course "Grokking the Coding Interview" by Design Gurus
 - 💞️ I’m looking to collaborate on Engineering problems.
 - 📫 How to reach me - jain.monisha.17@gmail.com
-- My resume - [Monisha Jain Resume](Resume_Monisha.pdf)
+
 
 <!---
 jainmonisha17/jainmonisha17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
